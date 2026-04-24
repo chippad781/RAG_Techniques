@@ -154,6 +154,8 @@ Whether you're an expert or just starting out, your insights can shape the futur
 
 Explore our extensive list of cutting-edge RAG techniques:
 
+- **RAG over SQL with FAISS** - Query structured databases using natural language with LangChain + FAISS
+
 > **Recently added:** MemoRAG (memory-augmented retrieval), End-to-End RAG Evaluation, Open-RAG-Eval, JSON RAG. **42 notebooks** and growing.
 
 | # | Category | Technique | View |
